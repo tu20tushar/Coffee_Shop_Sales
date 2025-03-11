@@ -8,6 +8,7 @@ Clean and transform sales data for accuracy and consistency.
 Identify best-selling products, peak sales hours, and store performance.
 Analyze month-over-month growth trends in revenue, orders, and product sales.
 Provide actionable insights to improve business strategy and profitability.
+
 🗄 Dataset Overview
 The dataset consists of transaction records from a coffee shop, capturing details such as:
 
