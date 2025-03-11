@@ -12,12 +12,15 @@ Provide actionable insights to improve business strategy and profitability.
 🗄 Dataset Overview
 The dataset consists of transaction records from a coffee shop, capturing details such as:
 
-Transaction Information: Order ID, Date, Time, Quantity Sold, Unit Price
-Product Details: Product Category, Product Type
-Store Data: Store ID, Store Location
+•	Transaction details: transaction_id, transaction_date, transaction_time, transaction_qty, unit_price
+•	Product information: product_id, product_category, product_type
+•	Store details: store_id, store_location
+
 Key Highlights:
 📌 Large dataset covering multiple sales transactions.
+
 📌 Time-based sales data allowing trend analysis.
+
 📌 Product and store-specific data for performance evaluation.
 
 🔄 Data Cleaning & Preparation
